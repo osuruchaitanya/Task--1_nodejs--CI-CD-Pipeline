@@ -169,27 +169,4 @@ Edit
 - [ ] Optional Dockerfile
 - [ ] `README.md` with setup & pipeline info
 
----
 
-If you're submitting this as part of a course/project, let me know the platform (like DevOps course, WILP, etc.) and I’ll help generate a **report or documentation** too.
-
-
-
-
-
-
-
-Is this helpful so far?
-
-
-
-Ask ChatGPT
-read me
-
-
-
-Tools
-
-
-
-ChatGPT can mak
